@@ -23,7 +23,7 @@ public class Cwork1 {
         Menu(); 
     }
     static void Add_student(){
-        System.out.println("                < University of Computing - Student Regestation > ");
+        System.out.println("                < University of Computing - Student Registration > ");
         System.out.println("---------------------------------------------------------------------------------------------");
         for(int noStd = 0; noStd<2; noStd++){
         
